@@ -1,9 +1,10 @@
 # ExoNet
 ## AI-Powered Exoplanet Discovery with Explainable AI
 
-**Deadline: October 6, 2025, 00:00 IST**
+ExoNet is a cutting-edge web application that classifies exoplanet candidates using machine learning and provides transparent, human-understandable explanations for its predictions using SHAP (SHapley Additive exPlanations).
 
-ExoNet v2.0 is a cutting-edge web application that classifies exoplanet candidates using machine learning and provides transparent, human-understandable explanations for its predictions using SHAP (SHapley Additive exPlanations).
+Current Working Link:-
+https://exonet-ai-classifier.vercel.app/
 
 ---
 
